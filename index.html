@@ -1,61 +1,37 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Yulia-o.GitHub.io by Yulia-O</title>
+---
+layout: default
+title: Home
+---
 
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/github-light.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1>Yulia Ovchinnikova</h1>
-        <p class="view"><a href="https://yulia-o.github.io/blog">View My Personal Blog</a></p>
-        <p class="view"><a href="http://www.linkedin.com/in/yovchinnikova">View My LinkedIn Profile</a></p>
-        <p class="view"><a href="https://github.com/Yulia-O">View My GitHub Profile</a></p>
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
 
-      </header>
-      <section>
-        <h3>
-<a id="About me" class="anchor" href="#About me" aria-hidden="true"><span class="octicon octicon-link"></span></a>About Me</h3>
+    <span class="post-date">{{ post.date | date_to_string }}</span>
 
-<p>Creative technologist, marketing pro, community manager, networker. Love startups, open-source and Hudson Valley. I am eager to experience new things. </p> 
-<h3>
-<a id="designer-templates" class="anchor" href="#designer-templates" aria-hidden="true"><span class="octicon octicon-link"></span></a>Designer Templates</h3>
+    {{ post.content }}
+  </div>
+  {% endfor %}
+</div>
 
-
-<h3>
-<a id="My_projects" class="anchor" href="#my_projects" aria-hidden="true"><span class="octicon octicon-link"></span></a>My projects</h3>
-
-<p><a href="http://www.IKSMedia.ru"</a>IKS-Media</p>
-<p><a href="http://www.iKSConsulting.ru"</a>iKS-Consulting agency</p>
-<p>Russian Open Source Summit 2013</p>
-<p><a href="http://www.rigf.ru/en/"</a>Russian Internet Governance Forum</p>
-<p><a href="http://tldcon.ru/en/"</a>TLDcon</p>
-<p><a href="http://www.enog.org"</a>ENOG / RIPE NCC Regional Meeting</p>
-<p>First Cyrillic Top Level Domain - . РФ</p>
-
-<h3>
-<a id="authors-and-contributors" class="anchor" href="#authors-and-contributors" aria-hidden="true"><span class="octicon octicon-link"></span></a>Authors and Contributors</h3>
-
-<p>You can <a href="https://github.com/blog/821" class="user-mention">@mention</a> a GitHub username to generate a link to their profile. The resulting <code>&lt;a&gt;</code> element will link to the contributor’s GitHub Profile. For example: In 2007, Chris Wanstrath (<a href="https://github.com/defunkt" class="user-mention">@defunkt</a>), PJ Hyett (<a href="https://github.com/pjhyett" class="user-mention">@pjhyett</a>), and Tom Preston-Werner (<a href="https://github.com/mojombo" class="user-mention">@mojombo</a>) founded GitHub.</p>
-
-<h3>
-<a id="support-or-contact" class="anchor" href="#support-or-contact" aria-hidden="true"><span class="octicon octicon-link"></span></a>Support or Contact</h3>
-
-<p>Having trouble with Pages? Check out our <a href="https://help.github.com/pages">documentation</a> or <a href="https://github.com/contact">contact support</a> and we’ll help you sort it out.</p>
-      </section>
-      <footer>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
-    </div>
-    <script src="javascripts/scale.fix.js"></script>
-    
-  </body>
-</html>
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
+    {% else %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>

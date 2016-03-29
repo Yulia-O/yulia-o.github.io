@@ -1,0 +1,49 @@
+# Dependencies
+# See https://help.github.com/categories/customizing-github-pages/
+# See https://help.github.com/articles/page-build-failed-config-file-error/#fixing-highlighting-errors
+markdown    : kramdown
+highlighter : rouge
+
+# Permalinks
+permalink   : pretty
+#relative_permalinks: true
+
+# Setup
+title       : Nitya Narasimhan
+tagline     : 'Android Study Jams 2016'
+description : 'My Study Jams Portfolio'
+url         : http://nitya.github.io/study-jams-2016
+baseurl     : http://nitya.github.io/study-jam-2016/
+
+# Author
+author      :
+  name      : 'Nitya Narasimhan'
+  url       : https://twitter.com/nitya
+  email     : 'n.narasimhan[at]gmail[dot]com'
+  github    : 'http://github.com/nitya'
+  twitter   : 'http://twitter.com/nitya'
+  linkedin  : 'http://www.linkedin.com/in/nityan'
+  gplus     : 'http://www.google.com/+NityaNarasimhan'
+  image     : 'https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/3/000/00b/2db/1fdb533.jpg'
+
+# Pages List: see http://joshualande.com/jekyll-github-pages-poole/
+pages_list:       
+  About          : '/about'
+  Archive        : '/archive'
+  Lessons        : '/lessons'
+  Practice Set 1 : '/practice-set-1'
+  Practice Set 2 : '/practice-set-1'
+  Project        : '/project-final'
+
+# Pagination
+gems        : [jekyll-paginate, jekyll-gist]
+paginate    : 5
+
+# Sidebar Data
+
+# Custom vars
+version     : 0.0.1
+
+# GitHub
+github      :
+  repo      : https://github.com/nitya/study-jams-2016

@@ -1,0 +1,84 @@
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+
+    <!-- Sidebar Title-->
+    <div class="sidebar-item">
+      <h2 class="sidebar-name">
+        <a href="{{ site.baseurl }}">
+          {{ site.title }}
+        </a>
+      </h2>
+    </div>
+
+    <!-- Sidebar logo -->
+    <div class="sidebar-logo">
+      <img src="{{site.author.image}}" />
+      <p class="social-icons">
+        <a href="{{site.author.github}}">
+          <i class="fa fa-github"></i>
+        </a>
+        <a href="{{site.author.twitter}}">
+          <i class="fa fa-twitter"></i>
+        </a>
+        <a href="{{site.author.linkedin}}">
+          <i class="fa fa-linkedin"></i>
+        </a>
+        <a href="{{site.author.gplus}}">
+          <i class="fa fa-google-plus"></i>
+        </a>
+        <a href="/atom.xml">
+          <i class="fa fa-rss"></i>
+        </a>
+      </p>
+    </div>
+
+
+    <!-- Site title -->
+    <div class="sidebar-about">
+      <p class="lead">
+        {{ site.description }}
+      </p>
+    </div>
+
+    <nav class="sidebar-nav">
+
+      {% comment %}
+        The code below dynamically generates a sidebar nav of pages with
+        `layout: page` in the front-matter. See readme for usage.
+      {% endcomment %}
+
+      <!-- Auto-generated Sitemap -->
+      {% assign pages_list = site.pages %}
+      {% for node in pages_list %}
+        {% if node.title != null %}
+          {% if node.layout == "page" %}
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">
+              <i class="fa fa-{{node.icon}}"></i> {{ node.title }}
+            </a>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+
+      <!-- Default page for / --
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">
+        <i class="fa fa-comments"></i> My Blog
+      </a>
+      -->
+
+      <!-- Site title --
+      <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">
+        Download
+      </a>
+      <a class="sidebar-nav-item" href="{{ site.github.repo }}">
+        GitHub project
+      </a>
+      --
+      <span class="sidebar-nav-item">
+        Currently v{{ site.version }}
+      </span>
+      -->
+    </nav>
+
+    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+  </div>
+</div>
