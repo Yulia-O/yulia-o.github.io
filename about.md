@@ -14,11 +14,11 @@ Yulia is a tech entrepreneur and business coach with 20+ years marketing and bus
 
 <p>Yulia spoke at:</p>
 
-2013: Russian Open Source Summit, Keynote speaker  (700+ attendees)
-2012: Internet Governance Forum, speaker (2000+ attendees)
-2012: LinuxCon Europe, speaker (2000+ attendee)
-2010:  The Regional Youth Internet Forum, “Study Internet – Govern It!”, Keynote speaker and facilitator  (500+ teenagers and school teachers)
-2010-2013,: Russian Internet Governance Forum, speaker (500+ global industry leaders)
-2009-2013: TLDcon: International conference for CIS registries and registrars in Central and Eastern Europe, speaker (200+ attendee)
-</p>
+<li>2013: Russian Open Source Summit, Keynote speaker  (700+ attendees)
+<li>2012: Internet Governance Forum, speaker (2000+ attendees)
+<li>2012: LinuxCon Europe, speaker (2000+ attendee)
+<li>2010:  The Regional Youth Internet Forum, “Study Internet – Govern It!”, Keynote speaker and facilitator  (500+ teenagers and school teachers)
+<li>2010-2013,: Russian Internet Governance Forum, speaker (500+ global industry leaders)
+<li>2009-2013: TLDcon: International conference for CIS registries and registrars in Central and Eastern Europe, speaker (200+ attendee)
+</li>
 
