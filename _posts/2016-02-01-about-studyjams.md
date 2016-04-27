@@ -7,15 +7,18 @@ tags: [management consulting, coaching, mission, vision, strategy development]
 <p>I find problems in systems that slow business down.</p> 
 <p>I offer solutions while encouraging you to find your own path in the future. </p>
 
-<p>I do this by providing an X-RAY diagnosis, seeing deep into the body of your business. 
-I do this by helping to find your Company DNA, seeing deep into the spirit of your business.
-Who knows your business better than you?
+<li>I do this by providing an X-RAY diagnosis, seeing deep into the body of your business. </li>
+<li>I do this by helping to find your Company DNA, seeing deep into the spirit of your business. </li>
+
+<p>Who knows your business better than you?
 The only help you need here - to see your business as your customers see it.
 So what do you need is a mirror. I call it "Magic mirror". Yes, the mirror that is asking RIGHT QUESTIONS, providing you with simplest exercises to write it down and get the feedback. That's what coach does, right? 
 If your answer is not clear, the magic mirror will ask you same questions again and again, from different points of view, using different consulting and coaching technique, providing special exercises to discover it. This canvas contains three main questions:</p>
+
 <li> WHAT are you doing?</li>
 <li> HOW are you doing what you are doing?</li>
 <li> WHY are you doing what you are doing?</li>
+<p></p>
 
 <p>The moment of Truth and Inspiration is to have all these answers serving the same Goal. Your WHY is the most important question. You have to find or choose your destiny and visualize your destination. When you clarify your focus, where do you want to be, and why, it transfers into a really strong mission and vision. What motivates you? Your intention will come through your heart and project the path. It will attract success. Your clear vision will attract right partners. The value you bring to this world will engage your customers.</p>
 
@@ -32,7 +35,7 @@ If your answer is not clear, the magic mirror will ask you same questions again 
 <p>It is achievable, and it is interesting game to play. It is a puzzle you can play in many different ways. And you need a partner, an opponent, an active magical mirror, a coach to see all your scenarios and to choose right.</p>
 We are social beings and we need the feedback.
 <p>You need a guidance to find who you really are. To create your awareness. To see all your possibilities and opportunities. To find what you really want and where do you want to be. </p>
-<p>To find your strengths and unique value. <b>To find Your Company DNA.<b/></p>
+<p>To find your strengths and unique value. <b>To find Your Company DNA.</b></p>
 
 <p>Next blog:
 The [Android Study Jam](http://developerstudyjams.com) is a free series of global, in-person study groups run by the Google Developer Group Community. 
