@@ -11,7 +11,7 @@ permalink   : pretty
 # Setup
 title       : Yulia Ovchinnikova
 tagline     : 'Android Study Jams 2016'
-description : 'My Study Jams Portfolio'
+description : 'My Portfolio'
 url         : http://yulia-o.github.io
 baseurl     : http://yulia-o.github.io/
 
@@ -31,8 +31,8 @@ pages_list:
   About          : '/about'
   Archive        : '/archive'
   Lessons        : '/lessons'
-  Practice Set 1 : '/practice-set-1'
-  Practice Set 2 : '/practice-set-1'
+  Firebase Hackathon 2015 : '/practice-set-1'
+  Android Study Jam 2016 : '/practice-set-2'
   Project        : '/project-final'
 
 # Pagination
