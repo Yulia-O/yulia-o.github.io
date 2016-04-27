@@ -4,12 +4,13 @@ title: Find Your Company DNA
 tags: [management consulting, coaching, mission, vision, strategy development]
 ---
 <b>What I CAN DO FOR YOU: </b>
-<p>I find problems in systems that slow business down.</p> 
-<p>I offer solutions while encouraging you to find your own path in the future. </p>
+<div class="container"><p>I find problems in systems that slow business down.
+I offer solutions while encouraging you to find your own path in the future. </p>
+</div>
 
 <li>I do this by providing an X-RAY diagnosis, seeing deep into the body of your business. </li>
 <li>I do this by helping to find your Company DNA, seeing deep into the spirit of your business. </li>
-
+<p></p>
 <p>Who knows your business better than you?
 The only help you need here - to see your business as your customers see it.
 So what do you need is a mirror. I call it "Magic mirror". Yes, the mirror that is asking RIGHT QUESTIONS, providing you with simplest exercises to write it down and get the feedback. That's what coach does, right? 
