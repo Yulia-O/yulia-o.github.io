@@ -4,7 +4,8 @@ title: Find Your Company DNA
 tags: [management consulting, coaching, mission, vision, strategy development]
 ---
 <b>What I CAN DO FOR YOU: </b>
-<p>I find problems in systems that slow business down. I offer solutions while encouraging you to find your own path in the future. </p>
+<p>I find problems in systems that slow business down.</p> 
+<p>I offer solutions while encouraging you to find your own path in the future. </p>
 
 <p>I do this by providing an X-RAY diagnosis, seeing deep into the body of your business. 
 I do this by helping to find your Company DNA, seeing deep into the spirit of your business.
@@ -12,11 +13,10 @@ Who knows your business better than you?
 The only help you need here - to see your business as your customers see it.
 So what do you need is a mirror. I call it "Magic mirror". Yes, the mirror that is asking RIGHT QUESTIONS, providing you with simplest exercises to write it down and get the feedback. That's what coach does, right? 
 If your answer is not clear, the magic mirror will ask you same questions again and again, from different points of view, using different consulting and coaching technique, providing special exercises to discover it. This canvas contains three main questions:</p>
-<li>
-- WHAT are you doing?
-- HOW are you doing what you are doing?
-- WHY are you doing what you are doing?
-- </li>
+<li> WHAT are you doing?
+<li> HOW are you doing what you are doing?
+<li> WHY are you doing what you are doing?
+</li>
 <p>The moment of Truth and Inspiration is to have all these answers serving the same Goal. Your WHY is the most important question. You have to find or choose your destiny and visualize your destination. When you clarify your focus, where do you want to be, and why, it transfers into a really strong mission and vision. What motivates you? Your intention will come through your heart and project the path. It will attract success. Your clear vision will attract right partners. The value you bring to this world will engage your customers.</p>
 
 <p>My goal is to make you able to find this answer, to write it down either in one beautiful phrase, or as 'One pager', or as a  100 slides presentation. The answer is called 'Your Company DNA'. This magical approach helps to find your exponential growth, helps to communicate with all of your customer, motivate them to follow you and buy your services. It is your choice, you can continue to chase each customer and become exhausted creating bunches of messages, services and proposals. It is a survival mode. But knowing Your Company DNA brings you to the new level of business. You can switch to the expansion, turn on your growth mode.</p>
@@ -26,13 +26,13 @@ Your Company DNA is your mantra. It is unlimited fuel for your business. The mom
 
 <p>And here is the second result you are going to get with my help. You will see new business opportunities available for you every new day. Because it is magical mirror, not only asking you right questions and X-Raying your business, but this is creating mirror. It reflect your beautiful creating personality, highlighting your opportunities, shining your business, admiring your business value, beauty and possibilities. Seeing someone loving it you're going to love it too! :-) </p>
 
-<p>So how to get there? The long path starts with first small steps. Ask yourself where are you now and where would you like to be in a period. Dream about it and start your journey. Your web-presence is the first thing to check. It is the first small mirror of your business. 
-It is achievable, and it is interesting game to play. It is a puzzle you can play in many different ways. And you need a partner, an opponent, an active magical mirror, a coach to see all your scenarios and to choose right.
-We are social beings and we need the feedback.</p>
+<p>So how to get there? The long path starts with first small steps. Ask yourself where are you now and where would you like to be in a period. Dream about it and start your journey. Your web-presence is the first thing to check. It is the first small mirror of your business. </p>
+<p>It is achievable, and it is interesting game to play. It is a puzzle you can play in many different ways. And you need a partner, an opponent, an active magical mirror, a coach to see all your scenarios and to choose right.</p>
+We are social beings and we need the feedback.
 <p>You need a guidance to find who you really are. To create your awareness. To see all your possibilities and opportunities. To find what you really want and where do you want to be. </p>
 <p>To find your strengths and unique value. To see Your Company DNA.</p>
 
-Next blog:
+</p>Next blog:
 The [Android Study Jam](http://developerstudyjams.com) is a free series of global, in-person study groups run by the Google Developer Group Community. 
 
 <div class="container">
