@@ -7,8 +7,8 @@ tags: [management consulting, coaching, mission, vision, strategy development]
 <p>I find problems in systems that slow business down.
 I offer solutions while encouraging you to find your own path in the future. </p>
 
-<li>I do this by providing an X-RAY diagnosis, seeing deep into the body of your business. </li>
-<li>I do this by helping to find your Company DNA, seeing deep into the spirit of your business. </li>
+<ol>I do this by providing an X-RAY diagnosis, seeing deep into the body of your business. </ol>
+<ol>I do this by helping to find your Company DNA, seeing deep into the spirit of your business. </ol>
 <p></p>
 <p>Who knows your business better than you?
 The only help you need here - to see your business as your customers see it.
@@ -39,6 +39,14 @@ If your answer is not clear, the magic mirror will ask you same questions again 
 We are social beings and we need the feedback.
 <p>You need a guidance to find who you really are. To create your awareness. To see all your possibilities and opportunities. To find what you really want and where do you want to be. </p>
 <p>To find your strengths and unique value. <b>To find Your Company DNA.</b></p>
+
+<p> to read more about subject:</p>
+<ul><a href="http://www.geektime.com/2015/01/21/discovering-your-company-dna-and-why-does-it-lead-to-rapid-company-expansion/">Company DNA</a> by Emma Butin </ul>
+<ul><a href="http://www.naijapreneur.com/business-dna/">Nigeria speaks about it</a></ul>
+<ul><a href="https://hbr.org/2008/02/whats-your-companys-dna">What's You Company DNA</a>  by Umair Haque</ul>
+<ul><a href="https://hbr.org/2009/12/the-innovators-dna">The Innovator’s DNA</a></ul>
+<ul>Cases: 
+<a href="https://medium.com/adventures-in-consumer-technology/the-rise-fall-and-rise-of-bitly-how-a-free-link-shortener-became-a-real-business-3d249f5da16b#.x5be51zhl">Bit.ly case</a> </ul>
 
 <p>Next blog:
 
