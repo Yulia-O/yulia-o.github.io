@@ -47,6 +47,7 @@ We are social beings and we need the feedback.
 <ul><a href="https://hbr.org/2009/12/the-innovators-dna">The Innovator’s DNA</a></ul>
 <ul>Cases: 
 <a href="https://medium.com/adventures-in-consumer-technology/the-rise-fall-and-rise-of-bitly-how-a-free-link-shortener-became-a-real-business-3d249f5da16b#.x5be51zhl">Bit.ly case</a> </ul>
+<a href="https://hbr.org/2016/04/what-i-learned-from-trying-to-innovate-at-the-new-york-times">New York Times case</a> </ul>
 <p></p>
 <p></p>
 <p>Next blog:
