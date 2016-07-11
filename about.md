@@ -14,6 +14,8 @@ Yulia is a tech entrepreneur and business coach with 20+ years marketing and bus
 
 <p>Yulia's talks:</p>
 
+<li>2016: <a href = "http://www.meetup.com/hvtech/events/230544010/">A Day of Women in Tech</a>, Hudson Valley Tech Meetup speaker  (80+ attendees)
+<li>2016: <a href = "https://2016.writespeakcode.com/talks">Write/Speak/Code</a>, workshoper, speaker  (30 attendees)
 <li>2013: <a href = "http://www.pcweek.ru/foss/conference/archive/?YEAR=2013">Russian Open Source Summit</a>, Keynote speaker  (700+ attendees)
 <li>2012: <a href= "http://www.intgovforum.org/">Internet Governance Forum</a>, speaker (2000+ attendees)
 <li>2012: <a href= "http://events.linuxfoundation.org/events/linuxcon-europe">LinuxCon Europe</a>, speaker (2000+ attendee)
